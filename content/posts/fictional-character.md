@@ -1,6 +1,6 @@
 +++
 date = '2025-10-03T22:12:51+03:00'
-draf
+draft = false
 title = 'Bir Hayali Karakter Gerçekten Hayal Ürünü müdür?'
 +++
 Geçenlerde Oyun Programlaması ile uğraşan bir arkadaşımla geliştirmek istediği bir oyun fikri hakkında konuşuyorduk. Oyun eski Türk Mitolojisi hakkında olacak. Soru, özet olarak şu; Türk Mitolojisine bağlı kalmalı mı yoksa karakterleri ve bazı hikayeleri kullanıp daha fantastik bir dünya mı tasarlamalı? Önünde iki seçenek olduğunu söyledi;
