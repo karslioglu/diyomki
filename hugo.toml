@@ -1,0 +1,4 @@
+baseURL = 'https://diyomki.com/'
+languageCode = 'en-us'
+title = 'Diyom ki..'
+theme = 'hugo-PaperMod'
